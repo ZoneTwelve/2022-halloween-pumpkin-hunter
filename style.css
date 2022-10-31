@@ -1,0 +1,11 @@
+body{
+  background: url("https://www.pixelstalk.net/wp-content/uploads/images5/Halloween-2021-Wallpaper.png");
+}
+html, body {
+  margin: 50px auto;
+  padding: 0;
+  text-align:center;
+}
+canvas {
+/*   display: block; */
+}
