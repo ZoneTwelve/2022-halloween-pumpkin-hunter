@@ -3,7 +3,7 @@
 
 Thanks for all sponsor's donations.
 
-- [Poor Baby Corn](https://t.me/GiantBabyCorn)
+- [Poor Baby Corn 🌽](https://t.me/GiantBabyCorn)
 - [michael34435](https://t.me/michael34435)
 
 # Introduction
