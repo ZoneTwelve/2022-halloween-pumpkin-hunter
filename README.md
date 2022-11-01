@@ -1,5 +1,12 @@
 # Halloween 2022 / Pumpkin hunter
-## Introduction
+# Sponsor
+
+Thanks for all sponsor's donations.
+
+- [Poor Baby Corn](https://t.me/GiantBabyCorn)
+- [michael34435](https://t.me/michael34435)
+
+# Introduction
 You are a pumpkin hunter, you need to collect pumpkin.
 
 But there are some zombies in the forest, you need to avoid them.
